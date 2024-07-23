@@ -1,4 +1,5 @@
 yfinance==0.2.18
 prophet==1.1.5
 plotly
+numpy==1.24.3  # or another compatible version
 streamlit
