@@ -1,8 +1,3 @@
-# Stock WebApp
-Here's the updated `README.md` file with the link to the web app included:
-
----
-
 # Stock Forecast App
 
 ## Overview
